@@ -12,3 +12,4 @@
 | PUT | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a7b7e4c-08f5-40b1-906e-a6a04ff97ce9" /> |
 | GET AFTER PUT | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ee1773a-2b53-49da-82f8-99bf7f536731" /> |
 | DELETE | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/77dffa20-fd59-46fc-9897-8573006c7f9b" /> |
+| GET AFTER DELETE | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/403339e3-563e-42f5-92d8-9bdb41d28afa" /> |
