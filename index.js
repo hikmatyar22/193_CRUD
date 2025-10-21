@@ -22,5 +22,11 @@ const db = mysql.createConnection({
     database: 'mahasiswa'
 });
 
-
+db.connect((err) => {
+    if(err) {
+        console.error('Error connecting to the Database:' + err.stack);
+        return;
+    }
+    console.log('Koneksi Berhasil');
+})
 
